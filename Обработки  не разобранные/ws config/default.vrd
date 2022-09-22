@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<point xmlns="http://v8.1c.ru/8.2/virtual-resource-system"
+		xmlns:xs="http://www.w3.org/2001/XMLSchema"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		base="/buh"
+		ib="File=&quot;C:\1C\Синицын\Уровень-2&quot;;"
+		enable="false">
+	<ws pointEnableCommon="false">
+		<point name="AddressSystem"
+				alias="AddressSystem.1cws"
+				enable="false"/>
+		<point name="EnterpriseDataExchange_1_0_1_1"
+				alias="EnterpriseDataExchange_1_0_1_1.1cws"
+				enable="false"/>
+		<point name="EnterpriseDataUpload_1_0_1_1"
+				alias="EnterpriseDataUpload_1_0_1_1.1cws"
+				enable="false"/>
+		<point name="Exchange"
+				alias="exchange.1cws"
+				enable="false"/>
+		<point name="Exchange_2_0_1_6"
+				alias="exchange_2_0_1_6.1cws"
+				enable="false"/>
+		<point name="InterfaceVersion"
+				alias="InterfaceVersion.1cws"
+				enable="false"/>
+		<point name="ManagedApplication_1_0_0_1"
+				alias="ManagedApplication_1_0_0_1.1cws"
+				enable="false"/>
+		<point name="MessageExchange"
+				alias="messageexchange.1cws"
+				enable="false"/>
+		<point name="MessageExchange_2_0_1_6"
+				alias="messageexchange_2_0_1_6.1cws"
+				enable="false"/>
+		<point name="MobileEntrepreneur"
+				alias="MobileAcc.1cws"
+				enable="false"/>
+		<point name="MobileEntrepreneur_1_0_2_1"
+				alias="MobileEntrepreneur.1cws"
+				enable="false"/>
+		<point name="RemoteAdministrationOfExchange"
+				alias="RemoteAdministrationOfExchange.1cws"
+				enable="false"/>
+		<point name="RemoteAdministrationOfExchange_2_0_1_6"
+				alias="RemoteAdministrationOfExchange_2_0_1_6.1cws"
+				enable="false"/>
+		<point name="RemoteAdministrationOfExchange_2_1_6_1"
+				alias="RemoteAdministrationOfExchange_2_1_6_1.1cws"
+				enable="false"/>
+		<point name="test"
+				alias="test.1cws"
+				enable="false"/>
+		<point name="nds"
+				alias="nds.1cws"
+				enable="true"/>
+		<point name="RemoteControl"
+				alias="RemoteControl.1cws"
+				enable="false"/>
+	</ws>
+	<httpServices publishByDefault="false"/>
+	<debug enable="true" url="tcp://localhost"/> 
+</point>

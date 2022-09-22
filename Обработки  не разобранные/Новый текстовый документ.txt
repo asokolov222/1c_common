@@ -1,0 +1,1 @@
+Regsvr32 /n /i:user  "C:\Program Files (x86)\1cv8\8.3.4.465\bin\comcntr.dll"

@@ -1,0 +1,1 @@
+select * from INFORMATION_SCHEMA.COLUMNS sc where lower(sc.COLUMN_NAME) like '%fld18603%'
